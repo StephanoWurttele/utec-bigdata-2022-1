@@ -12,7 +12,7 @@
 /data/csv/car_evaluation_processed.csv
 
 /data/raw/
-
+/doc
 /week01/datasets
 /week02/training/logs/
 /week04/ref.md
